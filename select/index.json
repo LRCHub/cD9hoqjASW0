@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Undress Rehearsal",
+  "base_artist": "タイムフライズ",
+  "createdAt": "2026-01-05T12:53:07.004610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Undress Rehearsal",
+      "artist": "Timeflies",
+      "has_synced": true,
+      "path": "select/01_Undress_Rehearsal_Timeflies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Undress Rehearsal",
+      "artist": "Timeflies",
+      "has_synced": true,
+      "path": "select/02_Undress_Rehearsal_Timeflies.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Undress Rehearsal",
+      "artist": "Timeflies",
+      "has_synced": true,
+      "path": "select/03_Undress_Rehearsal_Timeflies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Undress Rehearsal",
+      "artist": "Timeflies",
+      "has_synced": true,
+      "path": "select/04_Undress_Rehearsal_Timeflies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Undress Rehearsal",
+      "artist": "Timefiles",
+      "has_synced": true,
+      "path": "select/05_Undress_Rehearsal_Timefiles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Timeflies-Undress Rehearsal",
+      "artist": "nobody",
+      "has_synced": true,
+      "path": "select/06_Timeflies-Undress_Rehearsal_nobody.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Undress Rehearsal",
+      "artist": "Timeflies",
+      "has_synced": false,
+      "path": "select/pl_01_Undress_Rehearsal_Timeflies.txt"
+    }
+  ]
+}
